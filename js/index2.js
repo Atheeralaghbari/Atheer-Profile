@@ -38,7 +38,7 @@ skills_a.addEventListener("click",function(){
           
           
           $('.jqueryscript3').rProgressbar({
-            percentage: 20,
+            percentage: 80,
             fillBackgroundColor: '#00e5ff',
             backgroundColor: '#ffffff',
             borderRadius: '20px',
